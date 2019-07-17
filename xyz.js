@@ -4,8 +4,8 @@ var x = "Cafer"
 x = "cef"
 
 let y;
-y="bok"
-const z ="pıpı";
+y="dang"
+const z ="mofo";
 
 
 function myFunction(name) {
@@ -33,8 +33,10 @@ var myFourthFunc = (arg) => {
   console.log(deneme + deneme1)
 
 }
-myFourthFunc("bok")
+myFourthFunc("much")
 
 
 module.exports = myFourthFunc
+
+
 
